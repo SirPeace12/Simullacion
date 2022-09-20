@@ -8,6 +8,7 @@ from pruebaCorrido import *
 def genLinCongruente(xo,x,a,c,m):
     xn=0
     i=0
+    a=0
     guardados = np.array([])
     salida = []
 
